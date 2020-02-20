@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DrivingSchool/static/css/main.400a92d6.chunk.css",
+    "main.js": "/DrivingSchool/static/js/main.5ef79a47.chunk.js",
+    "main.js.map": "/DrivingSchool/static/js/main.5ef79a47.chunk.js.map",
+    "runtime-main.js": "/DrivingSchool/static/js/runtime-main.cbbd9f93.js",
+    "runtime-main.js.map": "/DrivingSchool/static/js/runtime-main.cbbd9f93.js.map",
+    "static/js/2.f7c536ad.chunk.js": "/DrivingSchool/static/js/2.f7c536ad.chunk.js",
+    "static/js/2.f7c536ad.chunk.js.map": "/DrivingSchool/static/js/2.f7c536ad.chunk.js.map",
+    "index.html": "/DrivingSchool/index.html",
+    "precache-manifest.608e6f65bab6d099214e8d528c2e9439.js": "/DrivingSchool/precache-manifest.608e6f65bab6d099214e8d528c2e9439.js",
+    "service-worker.js": "/DrivingSchool/service-worker.js",
+    "static/css/main.400a92d6.chunk.css.map": "/DrivingSchool/static/css/main.400a92d6.chunk.css.map",
+    "static/js/2.f7c536ad.chunk.js.LICENSE.txt": "/DrivingSchool/static/js/2.f7c536ad.chunk.js.LICENSE.txt",
+    "static/media/car.jpg": "/DrivingSchool/static/media/car.3158babf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbbd9f93.js",
+    "static/js/2.f7c536ad.chunk.js",
+    "static/css/main.400a92d6.chunk.css",
+    "static/js/main.5ef79a47.chunk.js"
+  ]
+}
